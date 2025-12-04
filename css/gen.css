@@ -21,7 +21,9 @@ body {
     --noir: #404040;
     --vert-vif: #8B6F63;
     --vert-foncé: #A89D9A;
-    --vert-clair: #F2E6DB;
+    --vert-moyen: #D4C4BB;
+    --vert-clair: #FAF7F5;
+
 
 
     --grand-titre: clamp(45px, 4.5vw, 90px);
